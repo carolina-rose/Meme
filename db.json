@@ -1,0 +1,6 @@
+{
+    "memes": [
+      { "id": 1, "title": "Mem 1", "upvotes": 6, "downvotes": 0, "img": "https://kwejk.pl/obrazek/3779227/jak-reagowac-na-chamow.html" },
+      { "id": 1, "title": "Mem 2", "upvotes": 6, "downvotes": 0, "img": "https://kwejk.pl/obrazek/3777641/numer-telefonu.html" }
+    ]
+}
