@@ -57,23 +57,21 @@ export const MEMES_LIST_STATE = [
 function App() {
   return (
     <Router>
-      <div>
-        <Header />
-        <Switch>
-          <Route exact path="/">
-            <Regular />
-          </Route>
-          <Route path="/hot">
-            <Hot />
-          </Route>
-          <Route path="/favourites">
-            <Favourites />
-          </Route>
-          <Route path="/regular">
-            <Regular />
-          </Route>
-        </Switch>
-      </div>
+      <Header />
+      <Switch>
+        <Route exact path="/">
+          <Regular />
+        </Route>
+        <Route path="/hot">
+          <Hot />
+        </Route>
+        <Route path="/favourites">
+          <Favourites />
+        </Route>
+        <Route path="/regular">
+          <Regular />
+        </Route>
+      </Switch>
     </Router>
   );
 }
