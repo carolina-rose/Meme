@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+IT Memes
+
+General Information:
+This is a react application is called IT Memes. My project is a page with IT memes.
+
+Features:
+- Adding upvotes and downvotes.
+- Moving memes to 'Hot' route when: upvotes - downvotes > 5.
+- Adding favourites memes and display them in 'Favourites' route and removing them from favourites. 
+
+![Screenshot](https://user-images.githubusercontent.com/73359367/133320725-8eb4e9f6-5159-4de2-bdcb-9578c2e76603.png)
+
+Setup:
+Installing node modules
+
+Depencies:
+- React router 
+- material UI
+- React icons 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
